@@ -6,46 +6,48 @@
     <description>Recent content on Open Cloud Day México</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Mon, 04 Nov 2019 08:42:12 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 14:42:56 -0600</lastBuildDate>
     
 	<atom:link href="https://opencloudday.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tickets</title>
-      <link>https://opencloudday.com/info/registro/</link>
-      <pubDate>Mon, 04 Nov 2019 08:42:12 -0600</pubDate>
+      <title>Registro</title>
+      <link>https://opencloudday.com/registro/</link>
+      <pubDate>Mon, 25 Nov 2019 14:42:56 -0600</pubDate>
       
-      <guid>https://opencloudday.com/info/registro/</guid>
+      <guid>https://opencloudday.com/registro/</guid>
       <description>Regístrate para participar en Open Cloud Day México.
  </description>
     </item>
     
     <item>
-      <title>Programa</title>
-      <link>https://opencloudday.com/info/programa/</link>
+      <title>Agenda</title>
+      <link>https://opencloudday.com/agenda/</link>
       <pubDate>Sat, 02 Nov 2019 08:42:12 -0600</pubDate>
       
-      <guid>https://opencloudday.com/info/programa/</guid>
-      <description>Horario Actividad     9:45 - 10:00  Bienvenida    10:00 - 10:40 Creditas Digital Platform: How we enabled business users to create new digital products with DSLs, por Evandro Silvestre Digital Platform with ~15 microservices responsible to manage the entire lending process in a totally product agnostic way. This Digital Platform allows the Business Owner to configure and create new products using just DSL.</description>
+      <guid>https://opencloudday.com/agenda/</guid>
+      <description> 
+Las actividades de Open Cloud Day se realizarán de 9 am a 6 pm. Próximamente publicaremos la agenda detallada de sesiones.
+Temas:  Modernización de aplicaciones existentes por medio de servicios en la nube. Desarrollo de aplicaciones nativas a la nube (cloud native). Gestión de infraestructura en la nube. Machine learning e inteligencia artificial.   </description>
     </item>
     
     <item>
       <title>Código de Conducta</title>
-      <link>https://opencloudday.com/info/coc/</link>
+      <link>https://opencloudday.com/coc/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://opencloudday.com/info/coc/</guid>
+      <guid>https://opencloudday.com/coc/</guid>
       <description>Al participar en el DataTón Anticorrupción hackathon ya sea como competidor, organizador, mentor o patrocinador, aceptas acatar este código de conducta, y cooperar con los organizadores del evento que lo hacen cumplir.
 La Versión Rápida SG se encarga de proporcionar una experiencia libre de acoso para todos, sin importar género, orientación sexual, discapacidad, edad, apariencia física, tamaño corporal, raza o religión. No toleramos el acoso de ningún tipo en nuestros asistentes.</description>
     </item>
     
     <item>
       <title>Preguntas frecuentes</title>
-      <link>https://opencloudday.com/info/preguntas-frecuentes/</link>
+      <link>https://opencloudday.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opencloudday.com/info/preguntas-frecuentes/</guid>
+      <guid>https://opencloudday.com/faq/</guid>
       <description>El contenido de esta página se genera usando parámetros de config.toml [params.faq]. El layout es controlado por layouts/info/faq.html</description>
     </item>
     
