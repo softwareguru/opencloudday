@@ -2,7 +2,7 @@
 
 baseURL = "https://opencloudday.com/"
 languageCode = "es-mx"
-relativeURLs = true
+defaultContentLanguage = "es"
 title = "Open Cloud Day México"
 theme = "opencloudday"
 googleAnalytics = "UA-XXXXXXX-Y"
@@ -14,17 +14,12 @@ publishDir = "docs"
 
     [params.navbar]
         name = "Open Cloud Day México"
-        url = "#"
+        url = "/"
 
         [[params.navbar.nav]]
         name = "Agenda"
-        url = "#"
-        [[params.navbar.nav]]
-        name = "Conferencistas"
-        url = "#"
-        [[params.navbar.nav]]
-        name = "Preguntas"
-        url = "#"
+        url = "/agenda"
+
         [[params.navbar.nav]]
         name = "Registro"
         url = "/registro"
@@ -81,8 +76,7 @@ Desarrolladores de aplicaciones web y móviles, arquitectos de software, CTOs, i
         logo = "sg.png"
         link = "https://sg.com.mx"
 
-
-
     [params.footer]
+        credit = "Open Cloud Day es otro fantástico evento de <a class='text-white' href='https://sg.com.mx' target='_blank'>Software Guru</a>"
         copyright = "Your Website"
 
