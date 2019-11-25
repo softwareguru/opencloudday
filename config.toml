@@ -5,7 +5,7 @@ languageCode = "es-mx"
 defaultContentLanguage = "es"
 title = "Open Cloud Day México"
 theme = "opencloudday"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-21077034-38"
 publishDir = "docs"
 
 [params]
