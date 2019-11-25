@@ -29,7 +29,7 @@ publishDir = "docs"
     [params.header]
         name = "Open Cloud Day México"
         tagline = "Conferencia gratuita presentada por Microsoft y Red Hat enfocada en desarrollo de aplicaciones y gestión de infraestructura de cómputo en la nube."
-        meta = "29 de noviembre de 2019, Ciudad de México."
+        meta = "10 de diciembre de 2019, Ciudad de México."
 
     [params.summary]
         description = """Open Cloud Day es un día de conferencias técnicas gratuitas presentado por Microsoft y Red Hat con el objetivo de avanzar el conocimiento de las prácticas y tecnologías para construir aplicaciones e infraestructura en la nube con alto desempeño e interoperabilidad.
