@@ -1,0 +1,87 @@
+# Page settings
+
+baseURL = "https://opencloudday.com"
+languageCode = "es"
+title = "Open Cloud Day México"
+theme = "opencloudday"
+googleAnalytics = "UA-XXXXXXX-Y"
+publishDir = "docs"
+
+[params]
+    author = "Software Guru"
+    description = "Open Cloud Day es una conferencia gratuita presentada por Microsoft y Red Hat enfocadas en desarrollo de aplicaciones y gestión de infraestructura cloud."
+
+    [params.navbar]
+        name = "Open Cloud Day México"
+        url = "#"
+
+        [[params.navbar.nav]]
+        name = "Agenda"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "Conferencistas"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "Preguntas"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "Registro"
+        url = "/registro"
+        button = true
+
+
+    [params.header]
+        name = "Open Cloud Day México"
+        tagline = "Conferencia gratuita presentada por Microsoft y Red Hat enfocada en desarrollo de aplicaciones y gestión de infraestructura de cómputo en la nube."
+        meta = "29 de noviembre de 2019, Ciudad de México."
+
+    [params.summary]
+        description = """Open Cloud Day es un día de conferencias técnicas gratuitas presentado por Microsoft y Red Hat con el objetivo de avanzar el conocimiento de las prácticas y tecnologías para construir aplicaciones e infraestructura en la nube con alto desempeño e interoperabilidad.
+
+##### Dirigido a 
+Desarrolladores de aplicaciones web y móviles, arquitectos de software, CTOs, ingenieros de datos.
+
+##### Temas
+* Modernización de aplicaciones existentes por medio de servicios en la nube.
+* Desarrollo de aplicaciones  nativas a la nube (cloud native).
+* Gestión de infraestructura en la nube.
+* Machine learning e inteligencia artificial.
+
+
+"""
+
+        [params.summary.venue]
+        name = "Hotel Marriott Reforma Ciudad de México"
+        address1 = "Paseo de la Reforma #276"
+        address2 = "Col. Juárez. Ciudad de México"
+        map = "https://binged.it/2OIhUH8"
+
+
+    [params.sponsors]
+      enable = true
+
+    [params.sponsors1_list]
+      enable = true
+      title = "Presentado por"
+
+      [[params.sponsors1]]
+        logo = "logo-microsoft.png"
+        link = "https://microsoft.com"
+
+      [[params.sponsors1]]
+        logo = "logo-redhat.png"
+        link = "https://redhat.com"
+
+    [params.sponsors2_list]
+      enable = true
+      title = "Organizado por"
+
+      [[params.sponsors2]]
+        logo = "sg.png"
+        link = "https://sg.com.mx"
+
+
+
+    [params.footer]
+        copyright = "Your Website"
+

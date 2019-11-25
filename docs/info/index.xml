@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infos on Open Cloud Day México</title>
+    <link>https://opencloudday.com/info/</link>
+    <description>Recent content in Infos on Open Cloud Day México</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 04 Nov 2019 08:42:12 -0600</lastBuildDate>
+    
+	<atom:link href="https://opencloudday.com/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tickets</title>
+      <link>https://opencloudday.com/info/boletos/</link>
+      <pubDate>Mon, 04 Nov 2019 08:42:12 -0600</pubDate>
+      
+      <guid>https://opencloudday.com/info/boletos/</guid>
+      <description>Adquiere tu boleto para participar en REAL.
+ </description>
+    </item>
+    
+    <item>
+      <title>Programa</title>
+      <link>https://opencloudday.com/info/programa/</link>
+      <pubDate>Sat, 02 Nov 2019 08:42:12 -0600</pubDate>
+      
+      <guid>https://opencloudday.com/info/programa/</guid>
+      <description>Horario Actividad     9:45 - 10:00  Bienvenida    10:00 - 10:40 Creditas Digital Platform: How we enabled business users to create new digital products with DSLs, por Evandro Silvestre Digital Platform with ~15 microservices responsible to manage the entire lending process in a totally product agnostic way. This Digital Platform allows the Business Owner to configure and create new products using just DSL.</description>
+    </item>
+    
+    <item>
+      <title>Código de Conducta</title>
+      <link>https://opencloudday.com/info/coc/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://opencloudday.com/info/coc/</guid>
+      <description>Al participar en el DataTón Anticorrupción hackathon ya sea como competidor, organizador, mentor o patrocinador, aceptas acatar este código de conducta, y cooperar con los organizadores del evento que lo hacen cumplir.
+La Versión Rápida SG se encarga de proporcionar una experiencia libre de acoso para todos, sin importar género, orientación sexual, discapacidad, edad, apariencia física, tamaño corporal, raza o religión. No toleramos el acoso de ningún tipo en nuestros asistentes.</description>
+    </item>
+    
+    <item>
+      <title>Preguntas frecuentes</title>
+      <link>https://opencloudday.com/info/preguntas-frecuentes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencloudday.com/info/preguntas-frecuentes/</guid>
+      <description>El contenido de esta página se genera usando parámetros de config.toml [params.faq]. El layout es controlado por layouts/info/faq.html</description>
+    </item>
+    
+  </channel>
+</rss>
