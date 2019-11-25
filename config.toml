@@ -1,7 +1,8 @@
 # Page settings
 
-baseURL = "https://opencloudday.com"
-languageCode = "es"
+baseURL = "https://opencloudday.com/"
+languageCode = "es-mx"
+relativeURLs = true
 title = "Open Cloud Day México"
 theme = "opencloudday"
 googleAnalytics = "UA-XXXXXXX-Y"
