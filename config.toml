@@ -28,7 +28,7 @@ publishDir = "docs"
 
     [params.header]
         name = "Open Cloud Day México"
-        tagline = "Conferencia gratuita presentada por Microsoft y Red Hat enfocada en desarrollo de aplicaciones y gestión de infraestructura de cómputo en la nube."
+        tagline = "Conferencia gratuita presentada por Microsoft y Red Hat enfocada en desarrollo de aplicaciones y gestión de infraestructura de cómputo en nube híbrida."
         meta = "10 de diciembre de 2019, Ciudad de México."
 
     [params.summary]
@@ -38,11 +38,12 @@ publishDir = "docs"
 Desarrolladores de aplicaciones web y móviles, arquitectos de software, CTOs, ingenieros de datos.
 
 ##### Temas
-* Modernización de aplicaciones existentes por medio de servicios en la nube.
-* Desarrollo de aplicaciones  nativas a la nube (cloud native).
-* Gestión de infraestructura en la nube.
-* Machine learning e inteligencia artificial.
+Esta edición del Open Cloud Day estará principalmente enfocada en cómo y por qué utilizar software de Red Hat en Azure.
 
+* Introducción a OpenShift.
+* Laboratorios prácticos para desplegar aplicaciones en Azure Red Hat OpenShift.
+* Gestión de autenticación y autorización.
+* Migración de bases de datos a la nube.
 
 """
 
@@ -75,6 +76,54 @@ Desarrolladores de aplicaciones web y móviles, arquitectos de software, CTOs, i
       [[params.sponsors2]]
         logo = "sg.png"
         link = "https://sg.com.mx"
+
+  [params.team]
+    enable = true
+    center = true
+    title = "Conferencistas"
+
+    # Las fotos de los mentores se almacenan en 'static/img/team'.
+    # Tratar de utilizar imágenes de por lo menos 360px*360px.
+
+    [[params.team.members]]
+      img = "rolando.jpg"
+      name = "Rolando Cedillo"
+      position = "Director para audiencia técnica @ Microsoft"
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/rolman/"]
+      ]
+
+    [[params.team.members]]
+      img = "cristiam.jpg"
+      name = "Cristiam Espinoza"
+      position = "Principal consultant @ Microsoft"
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/cristiam-espinoza-malpartida-8815763/"]
+      ]
+
+    [[params.team.members]]
+      img = "javier.jpg"
+      name = "Javier Árce"
+      position = "Solution Architect @ Red Hat"
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/javier-edmundo-arce-ortega-b9a40b16b/"]
+      ]
+
+    [[params.team.members]]
+      img = "rogelio.jpg"
+      name = "Juan Oliva"
+      position = "Azure / Cloud Native Global Black Belt @ Microsoft"
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/rogelio-oliva-opensource/"]
+      ]
+
+    [[params.team.members]]
+      img = "hector.jpg"
+      name = "Héctor Valtierra"
+      position = "Director de sector público @ Red Hat"
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/h%C3%A9ctor-valtierra-07062936/"]
+      ]
 
     [params.footer]
         credit = "Open Cloud Day es otro fantástico evento de <a class='text-white' href='https://sg.com.mx' target='_blank'>Software Guru</a>"
