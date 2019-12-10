@@ -34,13 +34,18 @@ draft: false
         </td>
     </tr>
     <tr>
+        <td>&nbsp;</td>
+        <td style="text-align:center"><strong>Salón Diego Rivera 2</strong>
+        <td style="text-align:center"><strong>Salón Diego Rivera 1</strong>
+    </tr>
+    <tr>
         <td class="horario">11:30 - 12:30</td>
         <td class="sesion">
             <a data-toggle="collapse" href="#a1">Introducción a OpenShift, por David Gamboa.</a>
             <p id="a1" class="collapse">Daremos un repaso de qué es OpenShift, su relación con Kubernetes, arquitectura y conceptos clave.</p>
         </td>
         <td class="sesion">
-            <a data-toggle="collapse" href="#b1">Puntos clave para migrar bases de datos a la nube, por Rolando Cedillo</a>
+            <a data-toggle="collapse" href="#b1">Puntos clave para migrar bases de datos a la nube, por Rolando Cedillo.</a>
             <p id="b1" class="collapse">Conoce qué manejadores de base de datos open source son soportados en Azure, así como algunas estrategias y recomendaciones para lograr el desempeño, seguridad, flexibilidad y costo que buscas.</p>
         </td>
     </tr>
