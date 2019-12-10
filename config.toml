@@ -102,28 +102,21 @@ Esta edición del Open Cloud Day estará principalmente enfocada en cómo y por 
       ]
 
     [[params.team.members]]
-      img = "javier.jpg"
-      name = "Javier Árce"
+      img = "david.jpg"
+      name = "David Gamboa"
       position = "Solution Architect @ Red Hat"
       social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/javier-edmundo-arce-ortega-b9a40b16b/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/jose-david-gamboa-gomezflores-8622523a/"]
       ]
 
-    [[params.team.members]]
-      img = "rogelio.jpg"
-      name = "Rogelio Oliva"
-      position = "Azure / Cloud Native Global Black Belt @ Microsoft"
-      social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/rogelio-oliva-opensource/"]
-      ]
+#    [[params.team.members]]
+#      img = "rogelio.jpg"
+#      name = "Rogelio Oliva"
+#      position = "Azure / Cloud Native Global Black Belt @ Microsoft"
+#      social = [
+#        ["fa-linkedin", "https://www.linkedin.com/in/rogelio-oliva-opensource/"]
+#      ]
 
-    [[params.team.members]]
-      img = "hector.jpg"
-      name = "Héctor Valtierra"
-      position = "Director de sector público @ Red Hat"
-      social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/h%C3%A9ctor-valtierra-07062936/"]
-      ]
 
     [params.footer]
         credit = "Open Cloud Day es otro fantástico evento de <a class='text-white' href='https://sg.com.mx' target='_blank'>Software Guru</a>"

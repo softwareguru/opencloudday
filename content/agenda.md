@@ -36,7 +36,7 @@ draft: false
     <tr>
         <td class="horario">11:30 - 12:30</td>
         <td class="sesion">
-            <a data-toggle="collapse" href="#a1">Introducción a OpenShift, por Javier Árce.</a>
+            <a data-toggle="collapse" href="#a1">Introducción a OpenShift, por David Gamboa.</a>
             <p id="a1" class="collapse">Daremos un repaso de qué es OpenShift, su relación con Kubernetes, arquitectura y conceptos clave.</p>
         </td>
         <td class="sesion">
@@ -47,7 +47,7 @@ draft: false
     <tr>
         <td class="horario">12:30 - 13:30</td>
         <td class="sesion">
-            <a data-toggle="collapse" href="#a2">Hands-on lab: Creación y gestión de un cluster Azure Red Hat OpenShift, por Javier Árce.</a>
+            <a data-toggle="collapse" href="#a2">Hands-on lab: Creación y gestión de un cluster Azure Red Hat OpenShift, por David Gamboa.</a>
             <p id="a2" class="collapse">En este laboratorio práctico aprenderás a crear y configurar los elementos básicos para construir un ambiente OpenShift en Azure.</p>
         </td>
         <td class="sesion">
@@ -64,11 +64,11 @@ draft: false
     <tr>
         <td class="horario">14:30 - 15:30</td>
         <td class="sesion">
-            <a data-toggle="collapse" href="#a3">Hands-on lab: Despliegue y monitoreo de una app en Azure OpenShift, por Javier Árce.</a>
+            <a data-toggle="collapse" href="#a3">Hands-on lab: Despliegue y monitoreo de una app en Azure OpenShift, por David Gamboa.</a>
             <p id="a3" class="collapse">En este laboratorio práctico desplegaremos los componentes de una aplicación (base de datos, backend y frontend) a nuestro ambiente de OpenShift en Azure.</p>
         </td>
         <td class="sesion">
-            <a data-toggle="collapse" href="#b3">Seguridad en la nube con Red Hat y Active Directory, por Rogelio Oliva.</a>
+            <a data-toggle="collapse" href="#b3">Seguridad en la nube con Red Hat y Active Directory, por Rolando Cedillo.</a>
             <p id="b3" class="collapse">Conoce las estrategias y pasos para gestionar usuarios y autenticación, así como las opciones de cifrado y otros aspectos de seguridad al utilizar OpenShift en Azure.</p>
         </td>
     </tr>
